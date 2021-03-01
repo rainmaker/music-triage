@@ -1,0 +1,6 @@
+directory: ~/Downloads/triage
+library: ~/Downloads/triage/musiclibrary.db
+import:
+  copy: no
+  write: no
+plugins: [play]
